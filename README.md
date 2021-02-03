@@ -2,6 +2,9 @@
 
 Lab 3 github
 
+
+PROJECT TEAM MEMBERS:
+
 Project Team Members:
 Brandon Alvarez
 Chase Engle
